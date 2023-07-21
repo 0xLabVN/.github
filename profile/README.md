@@ -1,3 +1,3 @@
 ## Welcome to Bit Byte Lab! 🚀🔮💻
 
-![An illustration](./best-illustrator.jpg)
+![An illustration](images/best-illustrator.jpg)
